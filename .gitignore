@@ -1,0 +1,11 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Тесты и отчёты
+.pytest_cache/
+reports/
